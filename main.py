@@ -5,7 +5,7 @@ def int1():
   print(f'\033[1m{title:^100}\033[0m')
   print()
   
-  a = '🔥▶️  Radio Gaga'
+  a = '🔥▶️  Radio Gaga.'
   print(f'{a:^45}')
   b = 'Queen'
   print(f'\033[1;33m{b:^46}\033[0m')
